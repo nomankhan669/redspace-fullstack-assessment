@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/red-space-assessment/static/css/main.32012a6f.css",
+    "main.js": "/red-space-assessment/static/js/main.da548e39.js",
+    "static/media/bootstrap-icons.woff?": "/red-space-assessment/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/red-space-assessment/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/jabba-the-hutt.svg": "/red-space-assessment/static/media/jabba-the-hutt.9ad7b707c82dc578e719.svg",
+    "static/media/greedo.svg": "/red-space-assessment/static/media/greedo.1caeda4e872f6c23c3d3.svg",
+    "static/media/c3p0.svg": "/red-space-assessment/static/media/c3p0.1910c14000b3157df255.svg",
+    "static/media/chewbacca.svg": "/red-space-assessment/static/media/chewbacca.408ac0848ecf1ac571a0.svg",
+    "static/media/emperor-palpatine.svg": "/red-space-assessment/static/media/emperor-palpatine.f575c3fb72dbeaf34053.svg",
+    "static/media/darth-vader.svg": "/red-space-assessment/static/media/darth-vader.c7965b674acc5557545b.svg",
+    "static/media/r2d2.svg": "/red-space-assessment/static/media/r2d2.165bf5ed32b41eb0ebb7.svg",
+    "static/media/luke-skywalker.svg": "/red-space-assessment/static/media/luke-skywalker.5dff1ff2495253952cd2.svg",
+    "static/media/obiwan-kenobi.svg": "/red-space-assessment/static/media/obiwan-kenobi.0d9bea4226b53132cdfb.svg",
+    "static/media/princess-leia.svg": "/red-space-assessment/static/media/princess-leia.dc7808ccb6f69f77350c.svg",
+    "static/media/han-solo.svg": "/red-space-assessment/static/media/han-solo.8261856043a3e1101b51.svg",
+    "index.html": "/red-space-assessment/index.html",
+    "main.32012a6f.css.map": "/red-space-assessment/static/css/main.32012a6f.css.map",
+    "main.da548e39.js.map": "/red-space-assessment/static/js/main.da548e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32012a6f.css",
+    "static/js/main.da548e39.js"
+  ]
+}
