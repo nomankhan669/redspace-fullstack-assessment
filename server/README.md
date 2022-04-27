@@ -17,4 +17,4 @@ You may also see any errors or request in the console.
 
 ### `npm test`
 
-Launches the test runner.\
+Launches the test runner in the console.
