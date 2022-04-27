@@ -21,9 +21,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/redspace-fullstack-assessment/' element={<Home characters={characters} />}></Route>
+        <Route path='/' element={<Home characters={characters} />}></Route>
         <Route path='/person-details/:id' element={<PersonDetails />}></Route>
-        <Route path='/person-details/' element={<Navigate replace to="/redspace-fullstack-assessment/" />}></Route>
+        <Route path='/person-details/' element={<Navigate replace to="/" />}></Route>
         <Route path='*' element={<PageNotFound/>}></Route>
       </Routes>
     </Router>
