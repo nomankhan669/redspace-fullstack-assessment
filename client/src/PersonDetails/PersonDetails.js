@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import 'bootstrap-icons/font/bootstrap-icons.css'
 import '../App.css'
 import { ProfileCard } from "./ProfileCard";

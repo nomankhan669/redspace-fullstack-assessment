@@ -23,7 +23,7 @@ export const ProfileCard = ({loading, profile}) => {
         </div>
           
         <div className="avatar-img mb-5 text-center">
-          {loading ? <div className="text-content" style={{height:'210px'}}></div> : <img src={characterImg} />}
+          {loading ? <div className="text-content" style={{height:'210px'}}></div> : <img src={characterImg} alt="person" />}
         </div>
 
         <div className="row">

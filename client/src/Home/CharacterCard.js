@@ -24,7 +24,7 @@ export const CharacterCard = ({person}) => {
         <div className='card-body character-card' style={styles.characterCard}>
           <h5 className='card-title'>{person.name}</h5>
           <Link to={`person-details/${person.id}`}>Details</Link>
-          <img className="person-avatar" style={styles.avatarImg} src={loadImage(person.icon)} />
+          <img className="person-avatar" style={styles.avatarImg} src={loadImage(person.icon)} alt="person avatar" />
         </div>
       </div>
     </div>
